@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://amalia6767.github.io/xingyi/sitemap.xml
