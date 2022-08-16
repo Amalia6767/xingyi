@@ -3,21 +3,50 @@
     <title>Xingyi Chen</title>
     <link href="https://amalia6767.github.io/xingyi/feed.xml" rel="self" />
     <link href="https://amalia6767.github.io/xingyi" />
-    <updated>2022-08-16T01:08:17+08:00</updated>
+    <updated>2022-08-17T01:33:04+08:00</updated>
     <author>
         <name>Xingyi Chen</name>
     </author>
     <id>https://amalia6767.github.io/xingyi</id>
 
     <entry>
-        <title>Recent Project: Text Analysis of Visitor Comments</title>
+        <title>METAMUSE: a Museum in Metaverse</title>
+        <author>
+            <name>Xingyi Chen</name>
+        </author>
+        <link href="https://amalia6767.github.io/xingyi/metamuse-a-museum-in-metaverse.html"/>
+        <id>https://amalia6767.github.io/xingyi/metamuse-a-museum-in-metaverse.html</id>
+
+        <updated>2022-08-16T21:40:43+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Platform - ROBLOX Designer - Xingyi Chen
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h4 class="align-center"><strong>Platform - <a href="https://www.roblox.com/games/8006433579/METAMUSE" target="_blank" rel="noopener noreferrer">ROBLOX</a></strong></h4>
+<h4 class="align-center">Designer - Xingyi Chen</h4>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://amalia6767.github.io/xingyi/media/posts/4/Jie-Ping-2021-11-07-14.23.29.png" sizes="100vw" srcset="https://amalia6767.github.io/xingyi/media/posts/4/responsive/Jie-Ping-2021-11-07-14.23.29-xs.png 300w ,https://amalia6767.github.io/xingyi/media/posts/4/responsive/Jie-Ping-2021-11-07-14.23.29-sm.png 480w ,https://amalia6767.github.io/xingyi/media/posts/4/responsive/Jie-Ping-2021-11-07-14.23.29-md.png 768w ,https://amalia6767.github.io/xingyi/media/posts/4/responsive/Jie-Ping-2021-11-07-14.23.29-lg.png 1024w ,https://amalia6767.github.io/xingyi/media/posts/4/responsive/Jie-Ping-2021-11-07-14.23.29-xl.png 1360w ,https://amalia6767.github.io/xingyi/media/posts/4/responsive/Jie-Ping-2021-11-07-14.23.29-2xl.png 1600w"  alt="" width="2152" height="1192"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://amalia6767.github.io/xingyi/media/posts/4/gallery/Jie-Ping-2021-11-06-13.42.45.png" data-size="1982x1278"><img loading="lazy" src="https://amalia6767.github.io/xingyi/media/posts/4/gallery/Jie-Ping-2021-11-06-13.42.45-thumbnail.png" alt="" width="720" height="464"></a></figure>
+<figure class="gallery__item"><a href="https://amalia6767.github.io/xingyi/media/posts/4/gallery/Jie-Ping-2021-11-08-10.13.53-2.png" data-size="1954x1620"><img loading="lazy" src="https://amalia6767.github.io/xingyi/media/posts/4/gallery/Jie-Ping-2021-11-08-10.13.53-2-thumbnail.png" alt="" width="720" height="597"></a></figure>
+<figure class="gallery__item"><a href="https://amalia6767.github.io/xingyi/media/posts/4/gallery/Jie-Ping-2021-11-08-10.17.22.png" data-size="2204x1624"><img loading="lazy" src="https://amalia6767.github.io/xingyi/media/posts/4/gallery/Jie-Ping-2021-11-08-10.17.22-thumbnail.png" alt="" width="720" height="531"></a></figure>
+</div></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Recent Project: Text Analysis of Online Comments</title>
         <author>
             <name>Xingyi Chen</name>
         </author>
         <link href="https://amalia6767.github.io/xingyi/recent-project-text-analysis-based-on-social-media.html"/>
         <id>https://amalia6767.github.io/xingyi/recent-project-text-analysis-based-on-social-media.html</id>
 
-        <updated>2022-08-16T01:08:17+08:00</updated>
+        <updated>2022-08-16T21:21:47+08:00</updated>
             <summary>
                 <![CDATA[
                     A Comparative Study of the Visitor Experience of Ullens Center for Contemporary Art(UCCA) before and after COVID-19: Text Analysis Based on Dianping.com 尤伦斯当代艺术中心疫情前后观众体验的对比研究——基于大众点评网的网络文本分析 Before December 2019 After December 2019
@@ -48,7 +77,7 @@
         <link href="https://amalia6767.github.io/xingyi/thanks-for-knowing-me.html"/>
         <id>https://amalia6767.github.io/xingyi/thanks-for-knowing-me.html</id>
 
-        <updated>2022-08-11T23:28:54+08:00</updated>
+        <updated>2022-08-17T01:33:04+08:00</updated>
             <summary>
                 <![CDATA[
                     RESEARCH INTERESTS Digital Humanities, Natural Language Processing, Museums, Visitor Studies, Text Analysis, Social Networking Analysis, Social Media EDUCATION B.A. in Art management, Central Academy of Fine Arts, Beijing, China 2017 - Present Summer School Introduction to Digital Humanities Online Workshop at Oxford Summer School 11-15 July 2022 Certificate of Text Analysis with Python offered&hellip;
@@ -69,23 +98,19 @@
 <p>29 July 2022</p>
 <p> </p>
 <p><span style="text-decoration: underline;"><strong>EXHIBITION CURATION EXPERIENCE</strong></span></p>
-<p><strong>Curator </strong>of<em> Shadow of Narkissos – </em><em>video art exhibition</em> (both offline and online exhibition)  June 2021</p>
-<p>digital exhibition：<a href="https://mp.weixin.qq.com/s/kQYHbo2G1eY7yNIIbWBHsA">https://mp.weixin.qq.com/s/kQYHbo2G1eY7yNIIbWBHsA</a></p>
-<p>exhibition information：<a href="https://mp.weixin.qq.com/s/RQutso_OcWeqS_5CBtjKpw">https://mp.weixin.qq.com/s/RQutso_OcWeqS_5CBtjKpw</a></p>
-<p><strong>Curator </strong>of<em> Born in Purple</em><strong><em> </em></strong><em>– </em><em>Tyrian purple BioArt project</em>   December 2021</p>
-<p>exhibition information：<a href="https://mp.weixin.qq.com/s/Sr5l4stGS-4OITMXbInJWA">https://mp.weixin.qq.com/s/Sr5l4stGS-4OITMXbInJWA</a></p>
+<p><strong>Curator </strong>of<em> Shadow of Narkissos – </em><em>video art exhibition</em> (both <a href="https://mp.weixin.qq.com/s/RQutso_OcWeqS_5CBtjKpw" target="_blank" rel="noopener noreferrer">offline</a> and <a href="https://mp.weixin.qq.com/s/kQYHbo2G1eY7yNIIbWBHsA" target="_blank" rel="noopener noreferrer">online</a> exhibition)  June 2021</p>
+<p><strong>Curator </strong>of<em> </em><a href="https://mp.weixin.qq.com/s/Sr5l4stGS-4OITMXbInJWA" target="_blank" rel="noopener noreferrer"><em>Born in Purple</em><strong><em> </em></strong><em>– </em><em>Tyrian purple BioArt project</em> </a>  December 2021</p>
 <p> </p>
 <p><span style="text-decoration: underline;"><strong>RESEARCH EXPERIENCE AND PUBLICATION</strong></span></p>
 <p class="align-left"><strong>S</strong><strong>tudent Researcher</strong> with Dr. Zekun Yang.  March 2022 - Present</p>
-<p>Research Center for Digital Humanities of Renmin University of China, Beijing.  (<a href="http://dh.ruc.edu.cn/">http://dh.ruc.edu.cn/</a>)</p>
+<p><a href="http://dh.ruc.edu.cn/" target="_blank" rel="noopener noreferrer">Research Center for Digital Humanities of Renmin University of China</a>, Beijing. </p>
 <p>analyzing the visitor experience of museums through Web Text Analysis.</p>
 <p>group leader of Art Interactive Map project based on WebGIS.</p>
 <p><strong>Bachelor Student </strong>with Dr. Xue Feng and Dr. Hanyu Zhang. 2020 - Present</p>
 <p>Virtual Lab for Art Museum of Central Academy of Fine Arts (<a href="https://vlam.cafa.edu.cn/about.html">https://vlam.cafa.edu.cn/about.html</a>)</p>
 <p>designing art exhibitions on VLAM and discussing how to improve digital performance.</p>
-<p><strong>Designer </strong>of METAMUSE – a virtual museum built in ROBLOX  May 2021</p>
+<p><strong>Designer </strong>of <a href="https://www.roblox.com/games/8006433579/METAMUSE" target="_blank" rel="noopener noreferrer">METAMUSE</a> – a virtual museum built in ROBLOX  May 2021</p>
 <p>combined virtual exhibitions with gamification to achieve the purpose of art education.</p>
-<p>METAMUSE link: <a href="https://www.roblox.com/games/8006433579/METAMUSE">https://www.roblox.com/games/8006433579/METAMUSE</a> </p>
 <p><strong>Co-author </strong>of <em>Palace of Art: 100 Most Influential Artists - From Renaissance to Postmodern</em><em>  </em>   January 2020</p>
 <p><em>Beijing Arts and Crafts Publishing House</em>, Beijing (ISBN:9787514017298)</p>
 <p>Chinese name: 《艺术殿堂：最具影响力的100位画家(文艺复兴-后现代)》</p>
@@ -109,8 +134,9 @@
 <p><strong>The First Prize i</strong><strong>n Photography Competition</strong> of <em>the Most Beautiful Scenes of China </em>September 2020</p>
 <p><strong>The Second Prize for </strong><strong>Excellent </strong><strong>P</strong><strong>roject</strong> of Central Academy of Fine Arts March 2022</p>
 <p> </p>
-<p class="msg--highlight msg  msg--info"><strong>EMAIL</strong> <a href="mailto:cxyamalia@gmail.com">cxyamalia@gmail.com </a></p>
-<p class="msg msg--highlight  msg--info"><strong>WeChat </strong>CXY-108801</p>
+<p><strong><a href="https://www.linkedin.com/in/xingyi-chen-868b95191/" target="_blank" rel="noopener noreferrer">Linkedin</a> </strong></p>
+<p><strong><a href="cxyamalia@gmail.com" target="_blank" rel="noopener noreferrer">Email</a></strong></p>
+<p><strong><span style="color: #e03e2d;">WeChat</span> </strong>CXY-108801</p>
             ]]>
         </content>
     </entry>
