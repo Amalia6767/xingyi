@@ -3,7 +3,7 @@
     <title>Xingyi Chen</title>
     <link href="https://amalia6767.github.io/xingyi/feed.xml" rel="self" />
     <link href="https://amalia6767.github.io/xingyi" />
-    <updated>2022-08-23T21:33:21+08:00</updated>
+    <updated>2022-08-23T21:36:49+08:00</updated>
     <author>
         <name>Xingyi Chen</name>
     </author>
@@ -76,10 +76,10 @@
         <link href="https://amalia6767.github.io/xingyi/recent-project-text-analysis-based-on-social-media.html"/>
         <id>https://amalia6767.github.io/xingyi/recent-project-text-analysis-based-on-social-media.html</id>
 
-        <updated>2022-08-23T21:33:21+08:00</updated>
+        <updated>2022-08-23T21:36:49+08:00</updated>
             <summary>
                 <![CDATA[
-                    A Comparative Study of the Visitor Experience of Ullens Center for Contemporary Art(UCCA) before and after COVID-19: Text Analysis Based on Dianping.com 尤伦斯当代艺术中心疫情前后观众体验的对比研究——基于大众点评网的网络文本分析 Before December 2019 After December 2019
+                    A Comparative Study of the Visitor Experience of Ullens Center for Contemporary Art(UCCA) before and after COVID-19: Text Analysis Based on Dianping.com 尤伦斯当代艺术中心疫情前后观众体验的对比研究——基于大众点评网的网络文本分析
                 ]]>
             </summary>
         <content type="html">
@@ -90,9 +90,7 @@
 <h4 class="align-center"><a href="https://ucca.org.cn/en/" target="_blank" rel="noopener noreferrer">Ullens Center for Contemporary Art </a></h4>
 <h4 class="align-center">Analyzing Platform - <a href="https://voyant-tools.org/?corpus=a6b81be6ef6b4e202dc970ba15a31628" target="_blank" rel="noopener noreferrer">Voyant Tool</a></h4>
 <h4 class="align-center">Data Collection - <a href="https://www.dianping.com/" target="_blank" rel="noopener noreferrer">Dianping.com</a></h4>
-<h4 class="align-center"><strong>Time scale</strong></h4>
-<p class="align-center">Before December 2019</p>
-<p class="align-center">After December 2019</p>
+<h4 class="align-center"><strong>Time scale - </strong>Before and After December 2019</h4>
 <p class="align-center"> </p>
 <p> </p>
             ]]>
