@@ -3,7 +3,7 @@
     <title>Xingyi Chen</title>
     <link href="https://amalia6767.github.io/xingyi/feed.xml" rel="self" />
     <link href="https://amalia6767.github.io/xingyi" />
-    <updated>2022-09-08T21:01:29+08:00</updated>
+    <updated>2022-09-19T22:04:33+08:00</updated>
     <author>
         <name>Xingyi Chen</name>
     </author>
@@ -46,10 +46,10 @@
         <link href="https://amalia6767.github.io/xingyi/recent-project-text-analysis-based-on-social-media.html"/>
         <id>https://amalia6767.github.io/xingyi/recent-project-text-analysis-based-on-social-media.html</id>
 
-        <updated>2022-08-31T20:40:49+08:00</updated>
+        <updated>2022-09-19T22:04:33+08:00</updated>
             <summary>
                 <![CDATA[
-                    A Comparative Study of the Visitor Experience of Ullens Center for Contemporary Art(UCCA) before and after COVID-19: Text Analysis Based on Dianping.com 尤伦斯当代艺术中心疫情前后观众体验的对比研究——基于大众点评网的网络文本分析
+                    A Comparative Study of the Visitor Experience of Ullens Center for Contemporary Art(UCCA) before and after COVID-19: Text Analysis Based on Dianping.com 尤伦斯当代艺术中心疫情前后观众体验的对比研究——基于大众点评网的网络文本分析 Abstract: Since the outbreak of COVID-19, museums and art galleries have been closed frequently, encountering problems such as loss of audience and financial crisis. In the turbulent post-pandemic era, how to&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -61,7 +61,9 @@
 <h4 class="align-center">Analyzing Platform - <a href="https://voyant-tools.org/?corpus=093fd0b40e06e4a36aa5383c92fbe092" target="_blank" rel="noopener noreferrer">Voyant Tool</a></h4>
 <h4 class="align-center">Data Collection - <a href="https://www.dianping.com/" target="_blank" rel="noopener noreferrer">Dianping.com</a></h4>
 <h4 class="align-center"><strong>Time scale - </strong>Before and After December 2019</h4>
-<p class="align-center"> </p>
+<p> </p>
+<p><strong>Abstract: </strong>Since the outbreak of COVID-19, museums and art galleries have been closed frequently, encountering problems such as loss of audience and financial crisis. In the turbulent post-pandemic era, how to deal with changes and what aspects need to be improved have become the main problems they face. Taking UCCA Center for Contemporary Art as an example, this paper uses web text analysis to analyze its micro-strategy from audience comments on Dianping.com, as well as its transformation and transformation effects before and after the pandemic. And from the perspective of art management, it evaluates whether UCCA’s strategies are consistent with its goal. The results show that after COVID-19 UCCA focused on exhibition themes related to the times and people; it has already used the membership mechanism to establish close connections with audiences before the pandemic. But some problems have not been effectively solved, such as the bad attitude of security guards. Finally, this paper provides suggestions for the sustainable development of art institutions: after COVID-19, museums and art galleries should pay more attention to the inner world of the audience and plan more in-depth exhibitions; actively respond to audience feedback, especially for negative feedback; take advantage of users' psychology and geographical advantages to attract more audiences and generate revenue.</p>
+<p><strong>Keywords: </strong>museum experience; visitor studies; art institutions; web text analysis; strategy evaluation</p>
 <p> </p>
             ]]>
         </content>
