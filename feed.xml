@@ -3,7 +3,7 @@
     <title>Xingyi Chen</title>
     <link href="https://amalia6767.github.io/xingyi/feed.xml" rel="self" />
     <link href="https://amalia6767.github.io/xingyi" />
-    <updated>2022-09-23T19:01:24+08:00</updated>
+    <updated>2022-09-23T19:08:56+08:00</updated>
     <author>
         <name>Xingyi Chen</name>
     </author>
@@ -17,11 +17,15 @@
         <link href="https://amalia6767.github.io/xingyi/interactive-map-art-treasury-of-beijing.html"/>
         <id>https://amalia6767.github.io/xingyi/interactive-map-art-treasury-of-beijing.html</id>
 
-        <updated>2022-09-23T19:01:24+08:00</updated>
-            <summary></summary>
+        <updated>2022-09-23T19:08:56+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Story Map is building...
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="100%" height="500px" src="https://storymaps.arcgis.com/stories/adf96631c620412b90928a26c7ec0606" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation"></iframe></div>
+                <p class="align-center"><a href="https://arcg.is/0a1vre" target="null">Story Map is building...</a></p>
             ]]>
         </content>
     </entry>
