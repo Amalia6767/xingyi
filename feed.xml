@@ -3,32 +3,12 @@
     <title>Xingyi Chen</title>
     <link href="https://amalia6767.github.io/xingyi/feed.xml" rel="self" />
     <link href="https://amalia6767.github.io/xingyi" />
-    <updated>2022-09-30T00:06:56+08:00</updated>
+    <updated>2022-09-30T23:04:01+08:00</updated>
     <author>
         <name>Xingyi Chen</name>
     </author>
     <id>https://amalia6767.github.io/xingyi</id>
 
-    <entry>
-        <title>Interactive Map: Art Treasury of Beijing</title>
-        <author>
-            <name>Xingyi Chen</name>
-        </author>
-        <link href="https://amalia6767.github.io/xingyi/interactive-map-art-treasury-of-beijing.html"/>
-        <id>https://amalia6767.github.io/xingyi/interactive-map-art-treasury-of-beijing.html</id>
-
-        <updated>2022-09-23T19:08:56+08:00</updated>
-            <summary>
-                <![CDATA[
-                    Story Map is building...
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-center"><a href="https://arcg.is/0a1vre" target="null">Story Map is building...</a></p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Web Text Analysis Based on Social Media</title>
         <author>
@@ -248,14 +228,14 @@
         </content>
     </entry>
     <entry>
-        <title>Web Text Analysis Based on Social Media</title>
+        <title>Recent project: Web Text Analysis Based on Social Media</title>
         <author>
             <name>Xingyi Chen</name>
         </author>
         <link href="https://amalia6767.github.io/xingyi/recent-project-text-analysis-based-on-social-media.html"/>
         <id>https://amalia6767.github.io/xingyi/recent-project-text-analysis-based-on-social-media.html</id>
 
-        <updated>2022-09-27T18:33:06+08:00</updated>
+        <updated>2022-09-30T22:59:15+08:00</updated>
             <summary>
                 <![CDATA[
                     Web Text Analysis Based on Social Media: Visitor Studies of UCCA Center for Contemporary Art 基于社交媒体的网络文本分析——尤伦斯当代艺术中心观众研究 Abstract: This paper takes UCCA Center for Contemporary Art, Beijing, China, as an example, using web text analysis from comments of audiences on Dianping.com, combined with UCCA’s goal to analyze its micro-strategy, transformation of strategies, and the effects&hellip;
@@ -285,7 +265,7 @@
         <link href="https://amalia6767.github.io/xingyi/thanks-for-knowing-me.html"/>
         <id>https://amalia6767.github.io/xingyi/thanks-for-knowing-me.html</id>
 
-        <updated>2022-09-28T01:26:01+08:00</updated>
+        <updated>2022-09-30T23:04:01+08:00</updated>
             <summary>
                 <![CDATA[
                     EDUCATION EXPERIENCE B.A. in Art management, Central Academy of Fine Arts, Beijing, China 2017 - Present Summer School at Oxford Introduction to Digital Humanities Online Workshop 11th - 15th July 2022 Certificate of Text Analysis with Python offered by UCx, University of Canterbury 29th July 2022 Digital Humanities Summer Workshop at UCLA Web Publishing&hellip;
@@ -306,9 +286,9 @@
 <li>Museums</li>
 <li>Digital Humanities</li>
 <li>Visitor Studies</li>
+<li>Linked Data</li>
 <li>Interactive Map</li>
 <li>Text Analysis</li>
-<li>Social Networking Analysis</li>
 </ul>
 <p> </p>
 <h4><span style="text-decoration: underline;">RESEARCH  EXPERIENCE  AND  PUBLICATION</span></h4>
@@ -316,7 +296,7 @@
 <p><a href="http://dh.ruc.edu.cn/" target="_blank" rel="noopener noreferrer">Research Center for Digital Humanities of Renmin University of China</a>, Beijing. </p>
 <ul>
 <li>Analyze and evaluate visitor experience of museums through Web Text Analysis.</li>
-<li>Group leader of Art Interactive Map project based on WebGIS.</li>
+<li>Group leader of MetaMuse: Art Interactive Map project based on WebGIS.</li>
 </ul>
 <p><strong>Bachelor Student </strong>with Dr. Xue Feng and Dr. Hanyu Zhang. 2020 - Present</p>
 <p><a href="https://vlam.cafa.edu.cn/about.html" target="_blank" rel="noopener noreferrer">Virtual Lab for Art Museum of Central Academy of Fine Arts</a></p>
@@ -364,7 +344,9 @@
 </ul>
 <h4> </h4>
 <h4><u>AWARDS  AND  HONORS</u></h4>
-<p><strong>The Second Prize Scholarship </strong>of Central Academy of Fine Arts<strong>  </strong>September 2022</p>
+<p><strong>The Second Prize Scholarship </strong>of Central Academy of Fine Arts<strong>  </strong>September  2022</p>
+<p><span class="notion-enable-hover" data-token-index="0" data-reactroot=""><strong>The Excellent Prize</strong> </span>of "New scene, new space, new art management: 2021 National College Students Creative Planning Competition"  2022</p>
+<p><strong><span class="notion-enable-hover" data-token-index="0" data-reactroot="">The Excellent Project</span> </strong>of "Metaverse Special Project"  2022</p>
 <p><span style="font-family: var(--editor-font-family); font-size: inherit; color: var(--headings-color); font-weight: var(--font-weight-bold);">The Third Prize Scholarship </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">of Central Academy of Fine Arts  August 2019</span></p>
 <p><strong>The Second Prize for </strong><strong>Excellent </strong><strong>P</strong><strong>roject</strong> of Central Academy of Fine Arts   March 2022</p>
 <p><strong>National Encouragement Scholarship</strong><strong> </strong>May 2018</p>
